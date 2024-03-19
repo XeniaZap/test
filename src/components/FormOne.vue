@@ -24,6 +24,7 @@
             required
           />
         </div>
+
       </div>
       <div class="mb-3 row">
         <label for="confirmPassword" class="form-label">Repeat password</label>
